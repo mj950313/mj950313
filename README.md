@@ -1,7 +1,6 @@
 <h1 align="center">안녕하세요👋 저는 김민재입니다</h1>
 <h3 align="center">항상 고민하고 성장하는 개발자가 되려고 노력합니다.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
